@@ -1,7 +1,8 @@
-# Caltrain-Synchronization-and-Mutual-Exclusion-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Caltrain+(Synchronization-and-Mutual-Exclusion))](https://git.io/typing-svg)
 
 
-## 2. Problem Statement:
+
+## Problem Statement:
 
 CalTrain (the train running in California, USA) has decided to improve its efficiency by automating not just its trains but also its passengers. From now on, passengers will be robots. Each robot and each train is controlled by a thread. You have been hired to write synchronization functions that will guarantee orderly loading of trains. You must define a structure struct station, plus several functions described below.
 
